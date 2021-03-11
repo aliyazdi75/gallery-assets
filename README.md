@@ -3,7 +3,8 @@ The Assets repository for [Gallery](https://github.com/aliyazdi75/gallery).
 
 ## My Selection
 I love everything about flutter, its people, events, communities. That's
-why I made this gallery to show how lovely they are.
+why I made this gallery to show how lovely they are. I hope one they I
+will join one of the Flutter events.
 
 ## Add your own Album
 If yo want to add you albums and medias, fork this repository and add

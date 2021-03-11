@@ -1,0 +1,27 @@
+{
+  "path": "/album2/",
+  "current": "album2",
+  "parent": "album1",
+  "albums": [
+    {
+      "name": "Root4",
+      "path": "album4"
+    }
+  ],
+  "images": [
+    {
+      "name": "photo7",
+      "path": "photo7",
+      "thumbnail": "https://raw.githubusercontent.com/aliyazdi75/gallery-assets/main/assets/gallery/album2/photo7.jpg",
+      "url": "https://raw.githubusercontent.com/aliyazdi75/gallery-assets/main/assets/gallery/album2/photo7.jpg",
+      "type": "image"
+    },
+    {
+      "name": "photo8",
+      "path": "photo8",
+      "thumbnail": "https://raw.githubusercontent.com/aliyazdi75/gallery-assets/main/assets/gallery/album2/photo8.jpg",
+      "url": "https://raw.githubusercontent.com/aliyazdi75/gallery-assets/main/assets/gallery/album2/photo8.jpg",
+      "type": "image"
+    }
+  ]
+}

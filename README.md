@@ -7,9 +7,11 @@ why I made this gallery to show how lovely they are. I hope one they I
 will join one of the Flutter events.
 
 ## Add your own Album
-If yo want to add you albums and medias, fork this repository and add
-them in `assets/gallery` folder and make a PR. The medias will be added
-to the gallery automatically after submitting the changes.
+If yo want to add you albums and medias, fork this repository 
+(don't clone because of large size) and click on
+(add file -> Upload files) at the top of the github repository page and
+add them in `assets/gallery` folder and make a PR. The medias will be added
+to the gallery application automatically after submitting the changes.
 
 ### Restriction
 Otherwise of these rules do not accept by the Gallery project:
